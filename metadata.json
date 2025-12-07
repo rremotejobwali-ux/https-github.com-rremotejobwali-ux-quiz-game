@@ -1,0 +1,5 @@
+{
+  "name": "quiz game",
+  "description": "An AI-powered trivia game that generates custom quizzes on any topic using the Gemini API.",
+  "requestFramePermissions": []
+}
